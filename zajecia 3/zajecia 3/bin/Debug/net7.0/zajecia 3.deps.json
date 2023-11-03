@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "zajecia 3/1.0.0": {
+        "runtime": {
+          "zajecia 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zajecia 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
